@@ -7,7 +7,7 @@ A vehicle could be captured by a camera and information about the vehicle could 
 
 I was able to get my model to predict the vehicle type with a 95% accuracy after minimal tuning. This result was achieved by using transfer learning on a CNN that is trained on resnet34. 
 
-![alt text}(https://github.com/IssabelAverina/PersonalProjects/blob/c0a978fd6c54ad06bb1e6f0874ec0bffad894264/VehicleClassifier/vehicleMatrix.png)
+![alt text](https://github.com/IssabelAverina/PersonalProjects/blob/c0a978fd6c54ad06bb1e6f0874ec0bffad894264/VehicleClassifier/vehicleMatrix.png)
 
 ## Notes
 - This model was made using google colab with fastai deep learning library
