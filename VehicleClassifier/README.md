@@ -11,5 +11,5 @@ I was able to get my model to predict the vehicle type with a 95% accuracy after
 
 ## Notes
 - This model was made using google colab with fastai deep learning library
-- The data was manually collected with the help of a chrome extension [FatKun Batch Download Image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en). 
+- The data was manually collected with the help of a chrome extension [FatKun Batch Download Image](https://chromewebstore.google.com/detail/mojcdcedhidldcgaokbelcmffoaengkj?utm_source=item-share-cb)
 
