@@ -8,6 +8,7 @@ This is a project made to  estimate the cost of airline tickets using machine le
 - RandomForestRegressor as the main machine learning model
 - Matplotlib & Seaborn for data visualization
 - Scikit-learn for machine learning models and preprocessing tools
+- Google Colab as the development environment
 
 ## Dataset 
 The [dataset](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction) was obtained from kaggle. Dataset contains information about flight booking options from the website Easemytrip for flight travel between India's top 6 metro cities. There are 300261 datapoints and 11 features in the cleaned dataset.
@@ -22,6 +23,9 @@ The [dataset](https://www.kaggle.com/datasets/shubhambathwal/flight-price-predic
 
 The graph shows that the predictions are very close to the actual price with few outliers.
 The model is highly accurate, especially considering flight prices can vary from a few thousand to over ₹100,000. An MAE of ~₹1,000 is strong.
+
+![](https://github.com/IssabelAverina/PersonalProjects/blob/e453f5f07a99d3196ba4cf9619a249140667709d/FlightsPricePrediction/features.png)
+From the plotted graph above, we can also see that the most important feature affecting the airline price is the class (Economy/Business), duration and days_left followed but has significantly lower impact.
 
 ## Future Improvements
 - Using GridSearchCV to find the best model configuration that will be more accurate.
