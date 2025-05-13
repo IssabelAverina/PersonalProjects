@@ -11,7 +11,7 @@ Ollama is used to generate text embeddings for each book, I selected this embedd
 - Jupyter Notebook as the development environment
 
 ## Dataset
-The dataset was obtained from kaggle (https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata) it contains 7,000 books with metadata such as:
+The dataset [7K Books](https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata) was obtained from kaggle. It contains 7,000 books with metadata such as:
 - Title, Authors, Description (summary/blurb)
 - Categories (genres/subjects)
 - Published Year, Average Rating, Number of Pages
