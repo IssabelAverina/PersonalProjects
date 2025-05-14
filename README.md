@@ -1,5 +1,5 @@
 # Personal Projects
-These are a collection of data science projects i've made to increase my understanding in data science and machine learning. 
+This is a collection of data science projects i've made to increase my understanding in data science and machine learning. 
 
 ## Contents
 ### Deep Learning
